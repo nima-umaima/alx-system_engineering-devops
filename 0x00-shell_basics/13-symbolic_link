@@ -1,3 +1,2 @@
 #!/bin/bash
 ln -sf /bin/ls __ls__
->>>>>>> f4e8a79efbd2b2424bd9272dd248f461b158a63f
