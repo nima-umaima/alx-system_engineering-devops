@@ -1,4 +1,4 @@
 #!/bin/bash
 echo into school.mgc;
-0 string SCHOOL School data
+O string SCHOOL School data
 !:mime School
