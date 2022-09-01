@@ -1,5 +1,2 @@
 #!/bin/bash
-echo -e 'O string SCHOOL school data\n!:mime School'>>
-school.mgc
-wc -l school.mgc
-file -C -m schoool.mgc
+echo -e 'O string SCHOOL school data\n!:mime School'
