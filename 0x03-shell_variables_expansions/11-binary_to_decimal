@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' $BINARY
+echo "obase=2;$ip1" | bc
